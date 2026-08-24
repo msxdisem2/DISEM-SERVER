@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "ba78611f-e06b-3bd7-8735-4c7c6c7d08f5",
+    "name": "STR1244",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e3fa7a24-a6b1-32a9-9e1d-42523f649c73",
+    "name": "Liraanto",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "700ed6dc-3302-30de-8a1d-bb4738984f48",
+    "name": "Eguaro",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

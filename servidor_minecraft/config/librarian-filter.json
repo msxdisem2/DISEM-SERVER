@@ -1,0 +1,7 @@
+{
+  "enableReroll": true,
+  "enableEachLevelReroll": false,
+  "disableTradeRebalance": true,
+  "enableSignSuggestions": true,
+  "allowTreasureEnchantments": false
+}
